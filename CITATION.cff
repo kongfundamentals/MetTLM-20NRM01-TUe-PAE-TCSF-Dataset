@@ -1,0 +1,59 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  "MetTLM 20NRM01 TU/e Dataset: Measuring the temporal
+  contrast sensitivity function of the phantom array effect"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Xiangzhen
+    family-names: Kong
+    email: x.kong@tue.nl
+    affiliation: Eindhoven University of Technology
+    orcid: 'https://orcid.org/0000-0003-3454-7576'
+  - given-names: Christophe
+    family-names: Martinsons
+    email: Christophe.MARTINSONS@cstb.fr
+    affiliation: Centre Scientifique et Technique du Bâtiment
+    orcid: 'https://orcid.org/0000-0002-2286-5991'
+  - given-names: Maria
+    family-names: Nilsson Tengelin
+    email: maria.nilssontengelin@ri.se
+    affiliation: RISE Research Institutes of Sweden
+    orcid: 'https://orcid.org/0000-0002-0909-626X'
+  - given-names: Ingrid
+    family-names: Heynderickx
+    email: I.E.J.Heynderickx@tue.nl
+    affiliation: Eindhoven University of Technology
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14454227
+repository-code: 'https://zenodo.org/records/14454227'
+abstract: >-
+  The phantom array effect (PAE) has been extensively
+  studied, yet existing data remain insufficiently
+  consistent to enable accurate predictions of its
+  visibility. A key step toward developing a reliable
+  visibility measure is the characterization of the temporal
+  contrast sensitivity function. This software package
+  provides both the curated datasets and the code used to
+  generate the visualizations presented in the paper
+  "Measuring the Temporal Contrast Sensitivity Function of
+  the Phantom Array Effect." One of its main features is a
+  comprehensive compilation of data extracted from the
+  literature, enabling detailed visualization and comparison
+  of PAE visibility across studies.
+keywords:
+  - Temporal Light Modulation
+  - Temporal Light Artefact
+  - The Phantom Array Effect
+  - Visual Perception
+  - Temporal Contrast Sensitivity Function
+  - Psychophysics
+license: MIT
+version: '1.0.0'
+date-released: '2025-10-17'
