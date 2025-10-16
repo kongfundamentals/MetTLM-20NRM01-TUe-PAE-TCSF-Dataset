@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+*.mex*
+*.oct*
+*.obj
+*.o
+*.so
+*.dll
+
+# Documentation, help and HTML files
+*.doc
+*.pdf
+*.html
+*.htm
+# *.md
+
+# Data files
+# *.mat
+*.dat
+# *.csv
+# *.txt
+
+# Executables and Libraries
+*.exe
+*.lib
+
+# Project files
+*.asv
+*.prj
+*.mlappinstall
+*.mltbx
+*.rpt
+*.out
+*.log
+*.bak
+*.cpt
+*.fig
+*.p
+*.autosave
+
+# Temporary files and folders created by MATLAB
+# ~*
+# .*
+# *_private/
+# *-temp.m
+# *.cfs
+# *~
+# *.temp
+
+# MATLAB project specific files
+# .simulink/
+# slprj/
+# _private/
+# .mlapp/
+# .gitattributes
+# .git/
+# .vscode/
+# .idea/
+# .DS_Store
+# .editorconfig
+# .prettierrc
