@@ -103,6 +103,10 @@ If you utilize the code or data from this repository, please cite both the assoc
 **2. Citing the Software/Dataset:**
 > Xiangzhen Kong, Christophe Martinsons, Maria Nilsson Tengelin, & Ingrid Heynderickx. (2025). *MetTLM 20NRM01 TU/e Dataset: Measuring the temporal contrast sensitivity function of the phantom array effect* (Version 1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.14454227](https://doi.org/10.5281/zenodo.14454227).
 
+**Note on Zenodo DOIs (Concept vs. Version):** This project has two associated Zenodo DOIs:
+*   **Concept DOI (all versions):** `10.5281/zenodo.14454226` - Use this DOI to refer to the overall project and always link to its latest version.
+*   **Version DOI (v1.0.0 specific):** `10.5281/zenodo.14454227` - This DOI links directly to the archived v1.0.0 release, ensuring precise reproducibility. This is the DOI specifically cited for this release of the software/dataset.
+
 **BibTeX Entry:**
 ```bibtex
 @software{kong_2025_code,
